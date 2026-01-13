@@ -1,91 +1,51 @@
-# Olá! Eu sou o Mawete Pascoal 👋
-
-**Full-Stack Developer | Estudante de AI/ML e Data Science**
-
-Desenvolvedor full-stack em transição para Inteligência Artificial e Ciência de Dados. Atualmente aprofundando conhecimentos em Machine Learning, Deep Learning e análise de dados, enquanto construo sistemas completos do backend ao frontend.
-
----
-
-##  GitHub Stats
-
 <div align="center">
 
-<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Weth-Developer&theme=github_dark" />
+# Mawete Pascoal
 
-</div>
+**Full-Stack Developer | AI/ML & Data Science Student**
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Weth-Developer&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Weth-Developer&theme=github_dark&utcOffset=-1" />
-</div>
+<p>Desenvolvedor full-stack com foco em Inteligência Artificial e Ciência de Dados<br>
+Experiência sólida em TypeScript, Python e integração de sistemas</p>
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Weth-Developer&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Weth-Developer&theme=github_dark" />
-</div>
-
----
-
-##  Atualmente Estudando
-
-<div align="center">
-  <img align="center" alt="TensorFlow" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="PyTorch" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="Pandas" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="NumPy" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-</div>
-
-<div align="center">
-  
-**Machine Learning** • **Deep Learning** • **Data Science** • **NLP** • **Computer Vision**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mawetepascoal.network@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mawete-pascoal-201331341)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](#)
 
 </div>
 
 ---
 
-##  Tecnologias & Ferramentas
 
 <div align="center">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="NestJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bash" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
-  <img align="center" alt="Vim" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-</div>
 
----
+### Linguagens
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-##  Entre em Contato
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<div align="center">
-  <a href="mailto:mawetepascoal.network@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mawete-pascoal-201331341" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
-
-##  Sobre Mim
-
-<div align="center">
-  
-Desenvolvedor full-stack com sólida experiência em TypeScript, Python e integração de sistemas.
-
-Atualmente em transição de carreira para Inteligência Artificial e Ciência de Dados, dedicando tempo ao estudo de Machine Learning, Deep Learning, e análise de dados com ferramentas como TensorFlow, PyTorch e Pandas.
-
-**Especialidades atuais:** Desenvolvimento full-stack • Integração hardware/software • DevOps em Linux
-
-**Em aprendizado:** Machine Learning • Deep Learning • Data Science • Computer Vision • NLP
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Weth-Developer&label=Profile%20views&color=00FF41&style=flat" alt="Weth-Developer" />
+  <em>"A melhor maneira de prever o futuro é criá-lo."</em>
 </div>
