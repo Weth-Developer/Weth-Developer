@@ -6,7 +6,7 @@ Desenvolvedor full-stack em transição para Inteligência Artificial e Ciência
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -26,7 +26,7 @@ Desenvolvedor full-stack em transição para Inteligência Artificial e Ciência
 
 ---
 
-## 📚 Atualmente Estudando
+##  Atualmente Estudando
 
 <div align="center">
   <img align="center" alt="TensorFlow" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
@@ -43,7 +43,7 @@ Desenvolvedor full-stack em transição para Inteligência Artificial e Ciência
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -61,7 +61,7 @@ Desenvolvedor full-stack em transição para Inteligência Artificial e Ciência
 
 ---
 
-## 📫 Entre em Contato
+##  Entre em Contato
 
 <div align="center">
   <a href="mailto:mawetepascoal.network@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -70,7 +70,7 @@ Desenvolvedor full-stack em transição para Inteligência Artificial e Ciência
 
 ---
 
-## 🎯 Sobre Mim
+##  Sobre Mim
 
 <div align="center">
   
